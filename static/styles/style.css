@@ -4,14 +4,14 @@
 
 @font-face {
     font-family: "Digital";
-    src: url("../fonts/DS-DIGIT.TTF");
+    src: url("../fonts/vhs.ttf");
 }
 
 * {
     margin: 0;
     padding: 0;
     font-family: "Digital";
-    font-size: 80px;
+    font-size: 70px;
 }
 
 body {
@@ -24,7 +24,8 @@ body {
 }
 
 body::after {
-    background-image: url("../images/noise.png");
+    /* background-image: url("../images/noise.png"); */
+    background-image: url("../images/ruido.webp");
     background-color: rgba(23, 119, 245, 0.5);
     content: "";
     position: absolute;
