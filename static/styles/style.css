@@ -24,7 +24,7 @@ body {
 }
 
 body::after {
-    background-image: url("../../images/noise.png");
+    background-image: url("../images/noise.png");
     background-color: rgba(23, 119, 245, 0.5);
     content: "";
     position: absolute;
