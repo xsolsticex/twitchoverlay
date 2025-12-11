@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: "Digital";
-    src: url("./static/fonts/DS-DIGIT.TTF");
+    src: url("../../static/fonts/DS-DIGIT.TTF");
 }
 
 * {
