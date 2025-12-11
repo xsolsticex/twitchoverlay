@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: "Digital";
-    src: url("/static/fonts/DS-DIGIT.TTF");
+    src: url("static/fonts/DS-DIGIT.TTF");
 }
 
 * {
@@ -24,7 +24,7 @@ body {
 }
 
 body::after {
-    background-image: url("/static/images/noise.png");
+    background-image: url("static/images/noise.png");
     background-color: rgba(23, 119, 245, 0.5);
     content: "";
     position: absolute;
